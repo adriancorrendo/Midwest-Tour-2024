@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Midwest Tour 2024"
@@ -15,5 +16,5 @@ format:
     theme: cosmo
     css: styles.css
 
-editor: visual
+editor: source
 
