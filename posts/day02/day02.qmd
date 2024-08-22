@@ -34,7 +34,7 @@ categories: [itinerary]
 
 ### 1. 🐄 **The Farm Connection** (1hr 10min)
 
--   **Address:** 1363 E County Rd 550 S, Clay City, IN 47841, United States\
+-   **Address:** 1363 E County Rd 550 S, Clay City, IN 47841, United States \
 -   **Route:** From I-70W, take exit #23 for IN-59, turn left onto IN-59S, in 10.6 miles turn left onto E. County Rd 550 S, destination is on the left in about 1.5 miles\
 -   **Contact:** Alan, Mary, and Kate (Cobb) Yegerlehner, swissconnectioncheese\@gmail.com, 812-691-0254 (Alan's cell)\
 -   **Arrive:** 8:30am\
