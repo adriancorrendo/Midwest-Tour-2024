@@ -1,0 +1,14 @@
+---
+title: "Midwest Tour 2024"
+author: "Dr. Liz Lee, & Dr. Adrian Correndo"
+date: 2024-08-21
+listing:
+  contents: posts
+  sort: "date asc"
+  type: grid
+  categories: true
+---
+
+## Welcome to the Midwest Tour 2024 Blog
+
+This blog will document our exciting trip to the US Midwest. Click on the links below to read about each day's activities.

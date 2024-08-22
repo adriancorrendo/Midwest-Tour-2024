@@ -1,0 +1,72 @@
+---
+title: "Day 1: Sunday, Aug 25th"
+date: 2024-08-25
+format:
+  html:
+    toc: true
+    toc-title: "Table of Contents"
+    toc-depth: 2
+    code-fold: true
+image: "day01.png"
+categories: [itinerary]
+---
+
+🚎 Bus time: 7hrs 36mins, 758km
+
+> **Note:** Be there by 6:10am to load. We will then take the bus and bring the cars to lot P13 by South Residence.
+
+-   **Monitors:** None
+-   **Start:** Guelph, behind the Crop Science Building
+-   **Address:** P13, University of Guelph, Guelph, ON.
+-   **End:** Indianapolis, IN
+-   **Depart Guelph:** 6:30am
+
+## Stops
+
+### 1. **Pitstop OnRoute West Lorne**
+
+-   **Route:** 401
+-   **Address:** 290 ON-401, Dutton, ON N0L 1J0
+-   **Arrive:** 8:00am
+-   **Depart:** 8:30am
+
+### 2. **Border & Customs (Detroit)**
+
+-   **Route:** I-75S to exit 37
+-   **Address:** U.S. Customs and Border Protection, 2810B W Fort St #123, Detroit, MI 48216, US
+-   **Arrive:** 10:00am
+-   **Depart:** 11:30am
+
+### 3. **Lunch stop McDonald's**
+
+-   **Route:** I-75S to exit 37
+-   **Address:** 18787 Northline Rd, Southgate, MI 48195, United States
+-   **Arrive:** 11:45am
+-   **Depart:** 12:45pm
+
+### 4. **Pitstop SB Pipe Creek Rest Area**
+
+-   **Route:** On route between Fort Wayne and Indianapolis
+-   **Address:** 35, Gaston, IN 47342, United States
+-   **Arrive:** 4:00pm
+-   **Depart:** 4:30pm
+
+### 5. **HOTEL: Hampton Inn Meridian Street**
+
+-   **Route:** I-75S then take US-24 W, I-469 S and I-69 S to E Ohio St in Indianapolis. Exit from I-70 W to E Ohio Street to E Washington St to N Meridian St.
+-   **Address:** Hampton Inn, 105 S. Meridian Street, Indianapolis IN 46225
+-   **Arrive:** 5:30pm
+-   **Happy Hour:** None
+-   **Bus parking:** \$50
+-   **Dinner options:** Nada (Mexican), Yard House, The Old Spaghetti Factory, Kilroy's Bar & Grill
+-   **Note:** Katelyn MacGillivary will be meeting us at the hotel as she is flying in from Wisconsin.
+
+### **Running Total:** 7hrs 36mins of bus time, 758km traveled
+
+### Google Maps Route
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m50!1m12!1m3!1d2474.531718965682!2d-80.22376220000002!3d43.53146480000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m35!3e0!4m3!3m2!1d43.531909!2d-80.21902999999999!4m5!1s0x882fb3752a144a41%3A0x262349a6b2b6b849!2s290%20ON-401%2C%20Dutton%2C%20ON%20N0L%201J0!3m2!1d42.649662!2d-81.5569744!4m5!1s0x883b2d61dab1a7bd%3A0x2f509a081ac36ae7!2sU.S.%20Customs%20and%20Border%20Protection%2C%202810B%20W%20Fort%20St%20%23123%2C%20Detroit%2C%20MI%2048216%2C%20United%20States!3m2!1d42.319504099999996!2d-83.0775589!4m5!1s0x883b379597f69479%3A0x5f567ce50bbb8b81!2s18787%20Northline%20Rd%2C%20Southgate%2C%20MI%2048195%2C%20USA!3m2!1d42.212534!2d-83.2258526!4m5!1s0x88151ce25d5fce89%3A0x4e5b22339ea4a0d4!2sSB%20Pipe%20Creek%20Rest%20Area%2C%20US-35%2C%20Gaston%2C%20IN%2047342%2C%20United%20States!3m2!1d40.3569321!2d-85.5598787!4m5!1s0x886b50bcef7d9515%3A0x17d65e8eaaab3e56!2sHampton%20Inn%20Indianapolis%20Downtown%20Across%20from%20Circle%20Centre%2C%20105%20S%20Meridian%20St%2C%20Indianapolis%2C%20IN%2046225%2C%20United%20States!3m2!1d39.7653894!2d-86.15762699999999!5e1!3m2!1sen!2sca!4v1724284846381!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
+
+Google map link: <https://maps.app.goo.gl/knLkLc6so6icEoBY8>

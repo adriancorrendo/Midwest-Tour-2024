@@ -1,0 +1,103 @@
+---
+title: "Day 2: Monday, Aug 26th"
+date: 2024-08-26
+format:
+  html:
+    toc: true
+    toc-title: "Table of Contents"
+    toc-depth: 2
+    code-fold: true
+image: "day02.png"
+categories: [itinerary]
+---
+
+🚎 Bus time: \~3 hrs 30 mins, \~300 km
+
+⌚ **Time Zone:** CENTRAL TIME
+
+**Monitors:** Laura Bateman, Mac Benham, Matt Brown & Wendy Campbell
+
+> **Note:** Moving from Eastern to Central time zone today -- Evansville. (EASTERN TIME)
+
+## Lunch Options
+
+-   🍔 **Burger** (cheese options: American, Swiss, Cheddar, Pepperjack)
+-   🥪 **Chicken Bacon Ranch Wraps** (fried or grilled)
+-   🍟 Both options come with fries
+
+## Stops
+
+**Start:** Indianapolis, IN\
+**End:** Evansville, IN\
+**Hotel:** Offers a free full breakfast starting at 6am\
+**Depart hotel:** 7:15am
+
+### 1. 🐄 **The Farm Connection** (1hr 10min)
+
+```         
+**Address:** 1363 E County Rd 550 S, Clay City, IN 47841, United States\
+**Route:** From I-70W, take exit #23 for IN-59, turn left onto IN-59S, in 10.6 miles turn left onto E. County Rd 550 S, destination is on the left in about 1.5 miles\
+**Contact:** Alan, Mary, and Kate (Cobb) Yegerlehner, swissconnectioncheese\@gmail.com, 812-691-0254 (Alan's cell)\
+**Arrive:** 8:30am\
+**Depart:** 11:00am\
+**Gifts:** 2-5
+```
+
+### 2. 🍔 **Lunch in Sullivan \@ Walmart/McDonalds** (40mins)
+
+```         
+**Address:** 757 W Wolfe St, Sullivan, IN 47882, United States\
+**Route:** IN-59 south to Clay City, just past Clay City right on IN-246 to US-150 (left) to Sullivan\
+**Arrive:** 11:45am\
+**Depart:** 12:45pm
+```
+
+### 3. 🍉 **Melon Acres** (17min)
+
+```         
+**Address:** 5388 E Gauger Rd, Oaktown, IN 47561, United States\
+**Route:** US-150 south, turn right onto E. Gauger Rd\
+**Contact:** Norm Conde (norm\@melonacres.com), Autumn Freeman (autumn\@melonacres.com)\
+**Arrive:** 1:00pm\
+**Depart:** 3:00pm\
+**Gifts:** 2
+```
+
+### 4. 🍉 **The Big Peach for Watermelon** (9mins) (optional)
+
+```         
+**Address:** 7738 N. Old 41, Bruceville, IN, United States\
+**Note:** Bring knife, cutting board, paper towels
+```
+
+### 5. 🛒 **Pitstop in Vincennes IN \@ Walmart** (15mins)
+
+```         
+**Address:** 650 Kimmell Rd, Vincennes, IN 47591, United States\
+**Route:** US-150/US-41 S exit on Hart St (left) then left on Kimmell Rd\
+**Arrive:** 4:00pm\
+**Depart:** 4:30pm
+```
+
+### 6. 🏨 **HOTEL:** Hampton Inn Evansville (59min) (SWITCH TO CENTRAL TIME)
+
+```         
+**Address:** 8000 Eagle Crest Blvd, Evansville IN\
+**Route:** US-41 turn left onto IN-68 then right onto I-69, take exit 7B for I66 W, then left onto Cross Pointe and left onto Eagle Crest Blvd\
+**Arrive:** 4:30pm (central time)\
+**Happy hour:** None\
+**Bus parking:** Free in lot\
+**Dinner options:** Texas Roadhouse, Cracker Barrel, Bar Louie-Evansville
+```
+
+**Note:** Carmen White will be meeting us at the hotel that evening. She will be flying in from Denver.
+
+**Running Total:** 10hrs 53mins of bus time, 1070km travelled
+
+### Google Maps Route
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m58!1m12!1m3!1d1360675.9006497539!2d-88.19692865130257!3d38.865290797129596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m43!3e0!4m5!1s0x886b50bcef7d9515%3A0x17d65e8eaaab3e56!2sHampton%20Inn%20Indianapolis%20Downtown%20Across%20from%20Circle%20Centre%2C%20105%20S%20Meridian%20St%2C%20Indianapolis%2C%20IN%2046225%2C%20United%20States!3m2!1d39.7653894!2d-86.15762699999999!4m5!1s0x886d08405320b46b%3A0x2e1b631ead8145d2!2s1363%20E%20County%20Rd%20550%20S%2C%20Clay%20City%2C%20IN%2047841%2C%20USA!3m2!1d39.307518!2d-87.08443!4m5!1s0x886d8f0bc6af23bd%3A0x3d177683e0b81ea3!2s757%20W%20Wolfe%20St%2C%20Sullivan%2C%20IN%2047882%2C%20USA!3m2!1d39.1010677!2d-87.4241124!4m5!1s0x886df3ebcd8fc6ad%3A0x18a0e9b4b66b4a84!2s5388%20E%20Gauger%20Rd%2C%20Oaktown%2C%20IN%2047561%2C%20USA!3m2!1d38.8926829!2d-87.4435984!4m5!1s0x886df9fc13072e21%3A0x29748f79bcfc368!2s7738%20Old%2041%20N%2C%20Bruceville%2C%20IN%2047516%2C%20USA!3m2!1d38.789457399999996!2d-87.4668812!4m5!1s0x886dffdf6e470307%3A0x5bd055cf5d83cccd!2s650%20Kimmell%20Rd%2C%20Vincennes%2C%20IN%2047591%2C%20USA!3m2!1d38.6626103!2d-87.5051464!4m5!1s0x886e2c993192dcfb%3A0x2ed89bf31175d8e0!2s8000%20Eagle%20Crest%20Blvd%2C%20Evansville%2C%20IN%2047715%2C%20USA!3m2!1d37.9755142!2d-87.45510449999999!5e1!3m2!1sen!2sca!4v1724290750107!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
+
+Google map here: <https://maps.app.goo.gl/jEjLeyBWBkjsmoqe9>

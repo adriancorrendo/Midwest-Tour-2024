@@ -1,0 +1,82 @@
+---
+title: "Day 3: Tuesday, Aug 27th"
+date: 2024-08-27
+format:
+  html:
+    toc: true
+    toc-title: "Table of Contents"
+    toc-depth: 2
+    code-fold: true
+image: "day03.png"
+categories: [itinerary]
+---
+
+🚎 **Bus time**: \~5 hrs 30 mins
+
+⌚ **Time Zone:** CENTRAL TIME
+
+**Monitors:** Kaitlyn Clare, Morgan Clark, Gibson Cooke & Liam Cronin
+
+**Start:** Evansville, IN **End:** Sikeston, MO
+
+**Hotel offers a free continental breakfast starting at 6am**\
+**Depart hotel:** 5:30am
+
+### 1. Breakfast at Love's Travel Stop Calvert City KY (near Land Between the Lakes)
+
+-   **Travel Time:** 1h 48mins
+-   **Route:** Take I-69 S near Eddyville, it becomes I-69/I-24, continue onto Calvert City
+-   **Address:** 2966 US-62, Calvert City, KY 42029, United States
+-   **Arrive:** 7:30am\
+-   **Depart:** 8:30am
+
+### 2. Griggs Farms LLC
+
+-   **Travel Time:** 2hr 2mins
+-   **Route:** Take US-79 to Simmons Rd, turn left onto Simmons Rd, turn left onto Gadsden-Todd Levee Rd, turn right onto Byrd Rd, turn right onto Byrd Rd, turn right onto Mason Grove Rd.
+-   **Address:** 1511 Mason Grove Rd, Humboldt, TN 38343, United States
+-   **Contact:** Matt & Kelly Griggs, robmgrig\@hotmail.com, 731-420-0423 (Matt's cell)
+-   **Arrive:** 10:45am\
+-   **Depart:** 12:45pm
+-   **Gifts:** 2
+
+### 3. Late Lunch at McDonald's in Dyersburg, TN
+
+-   **Travel Time:** 45mins
+-   **Nearby Options:** Chick-fil-A, Wendy's, Walmart
+-   **Route:** Mason Grove Rd to US-70A (left) to US-412 W to I-155 W to TN-78 S to Mall Blvd
+-   **Address:** 2496 Lake Rd, Dyersburg, TN 38024, United States
+-   **Arrive:** 1:30pm\
+-   **Depart:** 2:30pm
+
+### 4. Peanuts
+
+-   **Travel Time:** 1hr 18mins
+-   **Route:** I-155 W to I-55 N. Stay on I-55N to State Hwy HH in Miner (exit 69). Turn right onto US-61/N Main St. then left onto County Rd 452.
+-   **Address:** 36.9745744, -89.6294617 (GPS coordinates)
+-   **Contact:** Matt Deane, 573-475-0363 (cell)
+-   **Arrive:** 3:50pm\
+-   **Depart:** 5:30pm
+-   **Gifts:** 1-2
+
+### 5. HOTEL: Drury Inn & Suites Sikeston
+
+-   **Travel Time:** 14mins
+-   **Route:** State Hwy & to US-61 S (right) to I-55 N to exit #67 to E Malone Ave (left) to State Hwy H
+-   **Address:** 2608 E. Malone Ave. Miner, MO 63801
+-   **Arrive:** 6:00pm
+-   **Happy Hour:** 5:30pm -- 7:00pm with hot buffet
+-   **Bus Parking:** Free
+-   **Dinner Options:** El Bracero of Sikeston (Mexican), El Nopalito Grill (Mexican)
+
+### **Running Total:** 17hrs 3mins of bus time, 1657km traveled
+
+### Google Maps Route
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m51!1m12!1m3!1d1398113.9153167289!2d-89.9136486751424!3d36.86543976572501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m36!3e0!4m5!1s0x886e2c993192dcfb%3A0x2ed89bf31175d8e0!2s8000%20Eagle%20Crest%20Blvd%2C%20Evansville%2C%20IN%2047715%2C%20USA!3m2!1d37.9755142!2d-87.45510449999999!4m5!1s0x887a68992f097445%3A0x167319fc2b1081f3!2s2966%20US-62%2C%20Calvert%20City%2C%20KY%2042029%2C%20USA!3m2!1d37.004368899999996!2d-88.31909!4m5!1s0x887eb038ddc02db7%3A0x52e9e2ebe46ea58a!2s1511%20Mason%20Grove%20Rd%2C%20Humboldt%2C%20TN%2038343%2C%20USA!3m2!1d35.764769699999995!2d-88.9585087!4m5!1s0x88792821487d7c7b%3A0x1d1599261ab5c519!2s2496%20Lake%20Rd%2C%20Dyersburg%2C%20TN%2038024%2C%20USA!3m2!1d36.0613217!2d-89.3947221!4m4!2s36.9745744%2C%20-89.6294617!3m2!1d36.9745744!2d-89.6294617!4m5!1s0x88784896a4b0cfa9%3A0xead4425a81d178ba!2s2608%20E%20Malone%20Ave%2C%20Miner%2C%20MO%2063801%2C%20USA!3m2!1d36.8930943!2d-89.5361554!5e1!3m2!1sen!2sca!4v1724296212954!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
+
+</iframe>
+
+Google maps link: <https://maps.app.goo.gl/rpn24RrbCE5ysqg76>
