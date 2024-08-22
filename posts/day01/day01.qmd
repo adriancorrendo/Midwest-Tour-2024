@@ -11,7 +11,7 @@ image: "day01.png"
 categories: [itinerary]
 ---
 
-🚎 Bus time: 7hrs 36mins, 758km
+🚌 **Bus time:** 7hrs 36mins, 758km
 
 > **Note:** Be there by 6:10am to load. We will then take the bus and bring the cars to lot P13 by South Residence.
 

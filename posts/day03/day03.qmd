@@ -11,7 +11,7 @@ image: "day03.png"
 categories: [itinerary]
 ---
 
-🚎 **Bus time**: \~5 hrs 30 mins
+🚌 **Bus time:** \~5 hrs 30 mins
 
 ⌚ **Time Zone:** CENTRAL TIME
 

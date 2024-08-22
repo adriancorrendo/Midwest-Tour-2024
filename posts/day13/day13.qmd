@@ -1,0 +1,70 @@
+---
+title: "Day 13: Friday, Sept 6th"
+date: 2024-09-06
+format:
+  html:
+    toc: true
+    toc-title: "Table of Contents"
+    toc-depth: 2
+    code-fold: true
+image: "day13.png"
+categories: [itinerary]
+---
+
+🚌 **Bus time:** 6.5hrs
+
+> **Note:** Moving from Central to Eastern time zone today (Indiana). Closed-toed shoes required today. Hotel has free hot breakfast starting at 6am. Depart hotel at 6:30am.
+
+- **Monitors:** Sophie Van den Borre, Dylan Van Nes, Jamie VanOoteghem & Danielle Vogels
+- **Start:** Princeton, IL
+- **End:** Fort Wayne, IN
+
+## DESTINATIONS
+
+### 1. **Pitstop Walmart Supercenter**
+
+- **Route:** I-80 E to I-39 S to Bloomington, then I-55/I-74 S to exit 160, US-150 W to Market St and the Westgate Dr.
+- **Address:** 2225 W Market St, Bloomington, IL 61705, United States
+- **Arrive:** 8:00am
+- **Depart:** 8:30am
+
+### 2. **Lunch**
+
+- **Route:** I-74 E to exit 34
+- **Address:** McDonald's, 1508 S Washington St, Crawfordsville, IN 47933, United States
+- **Other Options Nearby:** Wendy’s, Starbucks, Applebee’s, Arby’s, Burger King
+- **Arrive:** 11:30am
+- **Depart:** 1:00pm
+
+### 3. **Red Gold Tomatoes**
+
+- **Route:**
+- **Address:** Curt will give us a pin drop for the field, using Elwood, Indiana 46036
+- **Contact:** Curt Utterback cutterback@redgold.com
+- **Arrive:** 2:30pm
+- **Depart:** 4:30pm at the latest
+- **Gifts:** 1-2
+
+### 4. **Pitstop Love's Travel Stop**
+
+- **Route:** IN-28 to I-69 N to exit 264
+- **Address:** 253 Tippy Ditch Dr, Marion, IN 46952, United States
+- **Arrive:** 5:10pm
+- **Depart:** 5:40pm
+
+### 5. **HOTEL: Hampton Inn & Suites Fort Wayne Downtown**
+
+- **Route:** I-69 N to Lima Rd, exit 311B
+- **Address:** 223 W Jefferson Blvd, Fort Wayne, IN 46802, United States
+- **Arrive:** 6:20pm
+- **Happy Hour:** None
+- **Bus Parking:** $75 coach parking
+- **Dinner Options:** Copper Spoon, King Gyros, Ruth’s Chris Steak House, Proximo, Double Dragon
+
+### **Running Total:** 60hrs 11mins of bus time, 5535km traveled
+
+### Google Maps Route
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d4417178.76747109!2d-89.9438255007453!3d40.6857575297422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0x88098382f8205cdd%3A0x5f61e3a6f38aecf!2s2120%20Claude%20Bailey%20Pkwy%2C%20Princeton%2C%20IL%2061356%2C%20USA!3m2!1d41.3980489!2d-89.46701709999999!4m5!1s0x880b72418ce4d559%3A0xdcbad64c363de068!2s2225%20W%20Market%20St%2C%20Normal%2C%20IL%2061761%2C%20USA!3m2!1d40.4898318!2d-89.04137709999999!4m5!1s0x881329ffd87e19ed%3A0xb24a16eab4aa303e!2s1508%20S%20Washington%20St%2C%20Crawfordsville%2C%20IN%2047933%2C%20USA!3m2!1d40.023809299999996!2d-86.9022822!4m5!1s0x8814e97620db057f%3A0x70cfba96bf83730!2sElwood%2C%20Indiana%2046036%2C%20USA!3m2!1d40.2769834!2d-85.8419246!4m5!1s0x8815aa70dd125501%3A0x129609f2e06182b!2sLove&#39;s%20Travel%20Stop%2C%20253%20Tippy%20Ditch%20Dr%2C%20Marion%2C%20IN%2046952%2C%20United%20States!3m2!1d40.554131!2d-85.54889299999999!4m5!1s0x8815e4f3a7bffbcd%3A0x56f675a7b6681872!2s223%20W%20Jefferson%20Blvd%2C%20Fort%20Wayne%2C%20IN%2046802%2C%20USA!3m2!1d41.075576999999996!2d-85.14088509999999!5e1!3m2!1sen!2sca!4v1724344436323!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+#### Google maps link: <https://maps.app.goo.gl/UL3FMPoQqv8MCtVPA>

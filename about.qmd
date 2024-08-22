@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpg
+image: profile.jpeg
 about:
   template: jolla
   links:
@@ -12,4 +12,17 @@ about:
       href: https://linkedin.com
 ---
 
-About this blog
+The [Plant Agriculture Field Trip course](https://www.plant.uoguelph.ca/mwtour-course), which is better known around campus as the Midwest Tour, is a field study course designed to increase the student's breadth of knowledge of agricultural production and agri-business in North America. Students in the course tour a selected area of the US Midwest Region prior to the fall semester, visiting cash crop and livestock farms, supporting industries (e.g. processing, manufacturing) and markets (e.g. elevators, stockyards)
+
+If you came across this site by chance, you may be interested in checking out our roots at the [University of Guelph](http://www.uoguelph.ca/), the [Ontario Agriculture College](https://www.uoguelph.ca/oac/) and the [Department of Plant Agriculture](http://www.plant.uoguelph.ca/).
+
+
+### Instructors
+
+Professor [Liz Lee](https://www.plant.uoguelph.ca/lizlee) <br/>
+Department of Plant Agriculture <br/>
+University of Guelph <br/>
+
+Assistant Professor [Adrian Correndo](https://www.plant.uoguelph.ca/acorrend) <br/>
+Department of Plant Agriculture <br/>
+University of Guelph <br/>

@@ -1,0 +1,72 @@
+---
+title: "Day 11: Wednesday, Sept 4th"
+date: 2024-09-04
+format:
+  html:
+    toc: true
+    toc-title: "Table of Contents"
+    toc-depth: 2
+    code-fold: true
+image: "day11.png"
+categories: [itinerary]
+---
+
+🚌 **Bus time:** 3.5hrs
+
+> **Note:** Closed-toed shoes required today. Depart hotel at 6:15am.
+
+- **Monitors:** Callum Nixon, Jillian Ohm, Janeen Overdevest & Carmen White
+- **Start:** Omaha, NE
+- **End:** Altoona, IA
+
+## DESTINATIONS
+
+### 1. **Pitstop Walmart Supercenter**
+
+- **Route:** I-80 to exit 57 (620th St/Olive St)
+- **Address:** 1905 E 7th St, Atlantic, IA 50022, United States
+- **Arrive:** 7:30am
+- **Depart:** 8:00am
+
+### 2. **Nichols Farms**
+
+- **Route:** IA-83 to G35 to G43 to 210th St to Clay Ave.
+- **Address:** Nichols Farms, 2188 Clay Ave, Bridgewater, IA 50837, United States
+- **Contact:** Ross Havens rossh@nicholsfarms.biz and Lillian Nichols nichols@nicholsfarms.biz
+- **Arrive:** 8:30am
+- **Depart:** 11:00am at the latest
+- **Gifts:** 5-6
+
+### 3. **Pitstop (SHORT REST STOP)**
+
+- **Route:** G43 N to G27 (right) to Delta Ave to I-80 E
+- **Address:** Rest Area EB, I-80, Casey, IA 50002, United States
+- **Arrive:** 11:30am
+- **Depart:** 11:45am
+
+### 4. **Lunch at Corteva Headquarters followed by a tour**
+
+- **Route:**
+- **Address:** Corteva Carver Research Center, 7000 NW 62nd Ave, Johnston, IA 50131, US
+- **Contact:** Travis Coleman travis.coleman@corteva.com Dave Bubeck david.bubeck@corteva.com Tabare Abadie tabare.abadie@corteva.com Michele Battles michele.battles@corteva.com
+- **Arrive:** 12:30pm
+- **Depart:** 4:30pm
+- **Gifts:** 5-6
+
+### 5. **HOTEL: Hyatt Place**
+
+- **Route:**
+- **Address:** 480 Bass Pro Drive NW Altoona, IA 50009
+- **Arrive:** 5:00pm
+- **Happy Hour:** None
+- **Bus Parking:** Free on sister property (ask at check-in)
+- **Dinner Options:** Burger Shed, Johnny’s Italian Steakhouse
+
+### **Running Total:** 49hrs 33mins of bus time, 4537km traveled
+
+### Google Maps Route
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d509269.67226691375!2d-94.90293943780449!3d41.443481161180806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0x87938faf22d153c3%3A0x6e6c8cc0db92f576!2s540%20S%2012th%20St%2C%20Omaha%2C%20NE%2068102%2C%20USA!3m2!1d41.2546518!2d-95.9323026!4m5!1s0x87ecb3e572f4245d%3A0xe28d8829f5a15061!2s1905%20E%207th%20St%2C%20Atlantic%2C%20IA%2050022%2C%20USA!3m2!1d41.401584299999996!2d-94.9859827!4m5!1s0x87ec9e73c7114e09%3A0xb4bd8bf912bc223d!2s2188%20Clay%20Ave%2C%20Bridgewater%2C%20IA%2050837%2C%20USA!3m2!1d41.215485!2d-94.651927!4m5!1s0x87ec8b265e6408ed%3A0x9b12732a8f40a154!2sCasey%2C%20IA%2C%20USA!3m2!1d41.5047095!2d-94.51830369999999!4m5!1s0x87ee916e91df65e5%3A0x930f7a302abd65e0!2s480%20Bass%20Pro%20Dr%20NW%2C%20Altoona%2C%20IA%2050009%2C%20USA!3m2!1d41.6543734!2d-93.51432319999999!4m5!1s0x87ee9d0e212d2a09%3A0x27d84ced0a6bb5f9!2s7000%20NW%2062nd%20Ave%2C%20Johnston%2C%20IA%2050131%2C%20USA!3m2!1d41.6712676!2d-93.7146187!5e1!3m2!1sen!2sca!4v1724344002578!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+#### Google maps link: <https://maps.app.goo.gl/ysyQ5GG8CGGtGuEeA>
+

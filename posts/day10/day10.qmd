@@ -1,0 +1,81 @@
+---
+title: "Day 10: Tuesday, Sept 3rd"
+date: 2024-09-03
+format:
+  html:
+    toc: true
+    toc-title: "Table of Contents"
+    toc-depth: 2
+    code-fold: true
+image: "day10.png"
+categories: [itinerary]
+---
+
+🚌 **Bus time:** 2 hrs 30 mins
+
+> **Note:** Closed-toed shoes and long pants required today. Free breakfast starting at 6am. Depart hotel at 6:45am.
+
+- **Monitors:** Katelyn MacGillvray, Thomas McClure, Griffin McFaul & Lucy McNiven
+- **Start:** Norfolk, NE
+- **End:** Omaha, NE
+
+## DESTINATIONS
+
+### 1. **Wagonhammer Ranch**
+
+- **Route:** Somewhere near Bartlett, NE
+- **Address:** Somewhere near Bartlett, NE, will need to get a pin drop from Jay.
+- **Contact:** Alex Wolf Alex@wagonhammer.com, Jay Wolf (semi-retired) Jay@wagonhammer.com 402-920-2853 (Jay’s cell) 402-741-2809 (Alex’s cell)
+- **Note:** We have been coming here since 1984, missed a few years with COVID and 2023. They have 2 contiguous blocks of land, one is about 10,000 acres and the other is about 25,000 acres. They have a feedlot down in Albion NE which we are not seeing. They are a seedstock producer of Angus, Charolais, and more recently Simmental and Sim-Angus.
+- **Arrive:** 8:00am
+- **Depart:** 10:30am
+- **Gifts:** 3-4
+
+### 2. **Lunch**
+
+- **Route:** Somewhere near Bartlett, NE
+- **Address:** McDonald's, 3323 W State St, Grand Island, NE 68803, United States
+- **Other Options:** Chipotle Mexican Grill, Scooter’s Coffee, KFC, Runza, Big Apple Bagels
+- **Arrive:** 11:30am
+- **Depart:** 12:30pm
+
+### 3. **Corteva Seedcorn Plant**
+
+- **Route:** Essentially backtrack to where we were
+- **Address:** Corteva (DuPont Pioneer Hi-Bred International), Inc, 1410 US-34, York, NE 68467, US
+- **Contact:** Tami Batt tami.batt@corteva.com
+- **Arrive:** 1:30pm
+- **Depart:** 3:00pm
+- **Gifts:** 2-3
+
+### 4. **Green Plains Ethanol Plant**
+
+- **Route:** US-34 E, right onto Rd O (note we drive past Corteva’s seedcorn plant)
+- **Address:** Green Plains York, 1414 Rd O, York, NE 68467, United States
+- **Contact:** Mitch Stuhr Mitch.Stuhr@gpreinc.com
+- **Arrive:** 3:30pm
+- **Depart:** 5:15pm
+- **Gifts:** 2-3
+
+### 5. **Pitstop Walmart (might not need this)**
+
+- **Address:** 101 David Dr, York, NE 68467, United States
+- **Arrive:** 5:30pm
+- **Depart:** 6:00pm
+
+### 6. **HOTEL: Hyatt Place Omaha Downtown-Old Market**
+
+- **Route:**
+- **Address:** 540 S 12th St, Omaha, NE 68102, United States
+- **Arrive:** 7:30pm
+- **Happy Hour:**
+- **Bus Parking:**
+- **Dinner Options:**
+
+### **Running Total:** 45hrs 58mins of bus time, 4222km traveled
+
+### Google Maps Route
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m58!1m12!1m3!1d2183404.788940936!2d-98.56106640163898!3d41.43997101188482!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m43!3e0!4m5!1s0x87903fd86ef82c49%3A0x98ad165f8deacbc8!2s920%20S%2020th%20St%2C%20Norfolk%2C%20NE%2068701%2C%20USA!3m2!1d42.023347099999995!2d-97.4372482!4m5!1s0x879b1f223246e5b7%3A0xb120bff7ee834d4!2sBartlett%2C%20NE%2C%20USA!3m2!1d41.8852859!2d-98.5523003!4m5!1s0x879987272b61105d%3A0x8bee301f3c3cc66c!2s3323%20State%20St%2C%20Grand%20Island%2C%20NE%2068803%2C%20USA!3m2!1d40.9382708!2d-98.38014679999999!4m5!1s0x87974fa8f4fe271f%3A0x684c68eb74c0f4f!2s1410%20US-34%2C%20York%2C%20NE%2068467%2C%20USA!3m2!1d40.9022086!2d-97.5700143!4m5!1s0x87974f3e6edca17f%3A0x29768e35c9a25f28!2s1414%20Rd%20O%2C%20York%2C%20NE%2068467%2C%20USA!3m2!1d40.897673999999995!2d-97.544648!4m5!1s0x879744df1afaf29f%3A0x680654b20ccb0cd9!2s101%20David%20Dr%2C%20York%2C%20NE%2068467%2C%20USA!3m2!1d40.8279766!2d-97.5933428!4m5!1s0x87938faf22d153c3%3A0x6e6c8cc0db92f576!2s540%20S%2012th%20St%2C%20Omaha%2C%20NE%2068102%2C%20USA!3m2!1d41.2546518!2d-95.9323026!5e1!3m2!1sen!2sca!4v1724342710542!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+#### Google maps link: <https://maps.app.goo.gl/sWDvHWcMjSZx3cdW6>

@@ -11,7 +11,7 @@ image: "day02.png"
 categories: [itinerary]
 ---
 
-🚎 **Bus time:** \~3 hrs 30 mins, \~300 km
+🚌 **Bus time:** \~3 hrs 30 mins, \~300 km
 
 ⌚ **Time Zone:** CENTRAL TIME
 

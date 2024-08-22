@@ -1,0 +1,71 @@
+---
+title: "Day 4: Wednesday, Aug 28th"
+date: 2024-08-28
+format:
+  html:
+    toc: true
+    toc-title: "Table of Contents"
+    toc-depth: 2
+    code-fold: true
+image: "day04.png"
+categories: [itinerary]
+---
+
+🚌 **Bus time:** 5 hrs 30 mins
+
+> **Note:** Hotel offers a free hot breakfast starting at 6am. Depart hotel at 7:45am.
+
+- **Monitors:** Aiden Currah, Emily Doan, Kiara Driscoll & Jacob Early
+- **Start:** Sikeston, MO
+- **End:** Stockton, MO
+
+## DESTINATIONS
+
+### 1. **Scott Wheeler Farms**
+
+- **Route:** E Malone Ave to I-55 S, to exit #66B to US-60 W right onto County Rd 589
+- **Address:** 15751 County Road 589, Essex, MO 63846
+- **Contact:** Scott Wheeler 573-225-5521 cell, jamesswfarms@gmail.com
+- **Arrive:** 8:00am
+- **Depart:** 9:45am
+- **Gifts:** 5
+
+### 2. **Parker Brothers Farms**
+
+- **Route:** US-60 E to US-61/US62 S, left onto County Rd 806
+- **Address:** 17863 US-61, Sikeston, MO 63801, United States
+- **Contact:** Danny Parker 573-380-6009 cell, cornbeanmilo@yahoo.com, Chad
+- **Arrive:** 10:00am
+- **Depart:** 11:45am
+- **Gifts:** 10+ – cheese for Danny
+
+### 3. **Lamberts Restaurant for Lunch**
+
+- **Route:** Continue on County Rd 806, left onto County Rd 807, merge left onto State Hwy AA, left onto E. Malone Ave.
+- **Address:** 2305 E Malone Ave, Sikeston, MO 63801, United States
+- **Arrive:** 12:00pm
+- **Depart:** 1:30pm
+
+### 4. **Pitstop @ Walmart Supercenter in Springfield MO**
+
+- **Route:** E. Malone to I-55 S to exit #66B to US-60 W, just outside of Springfield take Bus US-65, left onto E. Independence Ave
+- **Address:** 2021 E Independence St, Springfield, MO 65804, United States
+- **Arrive:** 5:45pm
+- **Depart:** 6:15pm
+
+### 5. **HOTEL: Orleans Trail Resort & Restaurant**
+
+- **Route:** Backtrack on Bus US-65 and take US-65 N to I-44 W, take exit #27 to MO-13 N, exit onto MO-32 W to Stockton, left on South St/MO-39, left onto Hwy RB, right onto S. Blake St (S 1525 Rd)
+- **Address:** 15828 S 1525 Rd, Stockton, MO 65785, United States
+- **Arrive:** 7:30pm
+- **Happy Hour:** None
+- **Bus Parking:** Free
+- **Dinner:** Orleans Trail Resort & Restaurant
+
+### **Running Total:** 22hrs 35mins of bus time, 2191km traveled
+
+### Google Maps Route
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d4638797.691345987!2d-94.30508245026475!3d37.21783338525778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0x88784896a4b0cfa9%3A0xead4425a81d178ba!2s2608%20E%20Malone%20Ave%2C%20Miner%2C%20MO%2063801%2C%20USA!3m2!1d36.8930943!2d-89.5361554!4m5!1s0x8878690a3658e8f7%3A0xe90d22024a06e905!2s15751%20Co%20Rd%20589%2C%20Essex%2C%20MO%2063846%2C%20USA!3m2!1d36.8420693!2d-89.73996369999999!4m5!1s0x8878459ec9caf26d%3A0xe604c7970207f78!2s17863%20US-61%2C%20Sikeston%2C%20MO%2063801%2C%20USA!3m2!1d36.829122!2d-89.565159!4m5!1s0x887848a1c3a34177%3A0xb3b82bcfcfcad139!2s2305%20E%20Malone%20Ave%2C%20Miner%2C%20MO%2063801%2C%20USA!3m2!1d36.8878093!2d-89.5464464!4m5!1s0x87cf7b354aa5cdcd%3A0x6b3549741aa1f2e4!2s2021%20E%20Independence%20St%2C%20Springfield%2C%20MO%2065804%2C%20USA!3m2!1d37.1441453!2d-93.258358!4m5!1s0x87c676834b56a525%3A0x5afa6ee2ba386e2d!2s15828%20S%201525%20Rd%2C%20Stockton%2C%20MO%2065785%2C%20USA!3m2!1d37.6672326!2d-93.794285!5e1!3m2!1sen!2sca!4v1724340607398!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+#### Google maps link: <https://maps.app.goo.gl/CuhgXo27Qivk92eJ6>

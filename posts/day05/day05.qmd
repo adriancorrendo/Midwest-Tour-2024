@@ -1,0 +1,72 @@
+---
+title: "Day 5: Thursday, Aug 29th"
+date: 2024-08-29
+format:
+  html:
+    toc: true
+    toc-title: "Table of Contents"
+    toc-depth: 2
+    code-fold: true
+image: "day05.png"
+categories: [itinerary]
+---
+
+🚌 **Bus time:** 5 hrs 45 mins
+
+> **Note:** Hotel offers a free hot breakfast starting at 6:30am. Depart hotel at 7:45am. Closed-toed shoes required today.
+
+- **Monitors:** Efe Engin, Simon Enns, Jillian Hamm & Lauren Hoonaard
+- **Start:** Stockton, MO
+- **End:** Wichita, KS
+
+## DESTINATIONS
+
+### 1. **Hammons Black Walnuts**
+
+- **Route:** Take MO-39 back to Stockton and continue through the intersection with MO-32 onto North St, turn right onto Hammons Dr.
+- **Address:** 105 Hammons Dr, Stockton, MO 65785, United States
+- **Contact:** Brian Hammon bhammons@black-walnuts.com, Steve Rutledge srutledge@blackwalnuts.com, Josh Abercrombie jabercrombie@black-walnuts.com, and Jacob Basecke jbasecke@black-walnuts.com
+- **Arrive:** 8:00am
+- **Depart:** 11:00am
+- **Gifts:** 4-5
+
+### 2. **Orleans for Lunch**
+
+- **Route:** Hammons Dr., left onto North St, MO-39 S, left onto Hwy RB, right onto S. Blake St (S 1525 Rd)
+- **Address:** Orleans Trail Resort & Restaurant, 15828 S 1525 Rd, Stockton, MO 65785, United States
+- **Arrive:** 11:30am
+- **Depart:** 12:30pm
+
+### 3. **Chesapeake Fish Hatchery**
+
+- **Route:** Take MO-39 S, left on State Hwy 174 E
+- **Address:** 21186 State Hwy 174, Mt Vernon, MO 65712, United States
+- **Contact:** Andy Cornforth Lawrence.Cornforth@mdc.mo.gov & Allison Allison.Leisenring@mdc.mo.gov
+- **Arrive:** 1:30pm
+- **Depart:** 3:00pm
+- **Gifts:** 2-3
+
+### 4. **Pitstop in Mt Vernon @ Walmart Supercenter**
+
+- **Route:** State Hwy 174 W, left on I-44, exit #46 to Bus I-44 (E Mt Vernon Blvd), left at Spring Park Blvd
+- **Address:** 500 W Mt Vernon Blvd, Mt Vernon, MO 65712, United States
+- **Arrive:** 3:15pm
+- **Depart:** 3:45pm
+
+### 5. **HOTEL: Holiday Inn Express & Suites**
+
+- **Route:** Bus I-44 (E Mt Vernon Blvd) W to I-44 W, exit 18B onto I-49 N, to exit #53 (left) onto Bus I-49, exit to State Hwy 96 W (right), traffic circle first exit onto MO-171 W (US-400 W), Dugan Rd exit
+- **Address:** Wichita Airport 1236 S Dugan Rd, Wichita, KS 67202, United States
+- **Arrive:** 7:30pm
+- **Happy Hour:** None
+- **Bus Parking:** Free
+- **Dinner Options:** Hangar One Steak House, La Hacienda Mexican, Texas Roadhouse
+
+### **Running Total:** 27hrs 45mins of bus time, 2485km traveled
+
+### Google Maps Route
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d4629851.9900376!2d-98.1851914192197!3d37.36306524565787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0x87c676834b56a525%3A0x5afa6ee2ba386e2d!2s15828%20S%201525%20Rd%2C%20Stockton%2C%20MO%2065785%2C%20USA!3m2!1d37.6672326!2d-93.794285!4m5!1s0x87c676e33c7108b1%3A0x44bacf13c077f7a4!2s105%20Hammons%20Dr%2C%20Stockton%2C%20MO%2065785%2C%20USA!3m2!1d37.7018571!2d-93.79529749999999!4m5!1s0x87c676834b56a525%3A0x5afa6ee2ba386e2d!2s15828%20S%201525%20Rd%2C%20Stockton%2C%20MO%2065785%2C%20USA!3m2!1d37.6672326!2d-93.794285!4m5!1s0x87cf53cee66b532d%3A0x44a080d65cfeb73a!2s21186%20State%20Hwy%20174%2C%20Mt%20Vernon%2C%20MO%2065712%2C%20USA!3m2!1d37.119379599999995!2d-93.67601669999999!4m5!1s0x87c8ae761679f35b%3A0xb31fd0ce15eceec3!2s500%20W%20Mt%20Vernon%20Blvd%2C%20Mt%20Vernon%2C%20MO%2065712%2C%20USA!3m2!1d37.0919804!2d-93.8259367!4m5!1s0x87bae0c80a7b7f65%3A0xc6621f7696862922!2s1236%20S%20Dugan%20Rd%2C%20Wichita%2C%20KS%2067209%2C%20USA!3m2!1d37.6711378!2d-97.415605!5e1!3m2!1sen!2sca!4v1724340888319!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+#### Google maps link: <https://maps.app.goo.gl/Ec46KBgjgKW5Mfpz5>

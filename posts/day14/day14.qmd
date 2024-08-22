@@ -1,0 +1,54 @@
+---
+title: "Day 14: Saturday, Sept 7th"
+date: 2024-09-07
+format:
+  html:
+    toc: true
+    toc-title: "Table of Contents"
+    toc-depth: 2
+    code-fold: true
+image: "day14.png"
+categories: [itinerary]
+---
+
+🚌 **Bus time:** 6hrs
+
+> **Note:** Depart hotel at 6:30am.
+
+- **Start:** Fort Wayne, IN
+- **End:** Guelph
+
+## DESTINATIONS
+
+### 1. **Pitstop Pilot Travel Center**
+
+- **Route:** I-69 to I-469 (exit 315) to US-24 (exit 21), to I475 (exit 68A), to I-75, then exit 210 to E Alexis Rd (left)
+- **Address:** 5820 Hagman Rd, Toledo, OH 43612, United States
+- **Arrive:** 8:15am
+- **Depart:** 8:45am
+
+### 2. **Canadian Border via Windsor**
+
+- **Route:** I-75 N exit 47B
+- **Address:** Canada Border Services Agency - Windsor Port of Entry, 780 Huron Church Rd, Windsor, ON N9C 2K2
+- **Arrive:** 9:45am
+- **Depart:** 10:45am
+
+### 3. **Pitstop ONroute Tilbury South**
+
+- **Route:** 401
+- **Address:** 62 Highway 401 Eastbound, Chatham-Kent, ON N0P 2L0
+- **Arrive:** 11:30am
+- **Depart:** 12:00pm
+
+### 4. **University of Guelph**
+
+- **Arrive:** 2:30pm
+
+### **Running Total:** 65hrs 53mins of bus time, 6101km traveled
+
+### Google Maps Route
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m45!1m12!1m3!1d15617.08779995462!2d-80.23547057548036!3d43.5273392296673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m30!3e0!4m5!1s0x8815e4f3a7bffbcd%3A0x56f675a7b6681872!2s223%20W%20Jefferson%20Blvd%2C%20Fort%20Wayne%2C%20IN%2046802%2C%20USA!3m2!1d41.075576999999996!2d-85.14088509999999!4m5!1s0x883b8163bea10433%3A0x6603d5879838dac3!2s5820%20Hagman%20Rd%2C%20Toledo%2C%20OH%2043612%2C%20USA!3m2!1d41.7240344!2d-83.50817409999999!4m5!1s0x883b2d9da5ab3dc3%3A0xadbf57a8921f4d33!2s780%20Huron%20Church%20Rd%2C%20Windsor%2C%20ON%20N9C%202K2!3m2!1d42.3005438!2d-83.06515859999999!4m5!1s0x883ab290b14bba8b%3A0x15412a45d492d637!2sONroute%20Tilbury%20South%2C%2062%20Highway%20401%20Eastbound%2C%20Chatham-Kent%2C%20ON%20N0P%202L0!3m2!1d42.274245!2d-82.4004977!4m4!2s43.531931%2C%20-80.219115!3m2!1d43.531931!2d-80.219115!5e1!3m2!1sen!2sca!4v1724344911965!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+#### Google maps link: <https://maps.app.goo.gl/Sr9zqLdRx4WVQAf6A>

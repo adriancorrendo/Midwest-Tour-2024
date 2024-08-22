@@ -1,0 +1,72 @@
+---
+title: "Day 12: Thursday, Sept 5th"
+date: 2024-09-05
+format:
+  html:
+    toc: true
+    toc-title: "Table of Contents"
+    toc-depth: 2
+    code-fold: true
+image: "day12.png"
+categories: [itinerary]
+---
+
+🚌 **Bus time:** 4.25hrs
+
+> **Note:** Hotel has a free breakfast starting at 6:30am. Depart hotel at 7:30am.
+
+- **Monitors:** Chelsea Sauvé, Emma Sceli, Kaitlyn Sharpe & Seth Stankus
+- **Start:** Altoona, IA
+- **End:** Princeton, IL
+
+## DESTINATIONS
+
+### 1. **Kinze**
+
+- **Route:** I-80 E to exit 216, continue on M Ave
+- **Address:** Kinze Innovation Center, 8563, 2172 M Ave, Williamsburg, IA 52361, United States
+- **Contact:** Carolyn Rathjen Carolyn.Rathjen@Kinze.com
+- **Arrive:** 9:00am
+- **Depart:** 11:30am
+- **Gifts:** 2-3 (met w/ Carter and Kelly in 2023, give one to Carolyn too)
+
+### 2. **Lunch stop in Williamsburg Outlets at McDonald's**
+
+- **Route:** I-80 E to exit 220
+- **Address:** Outlets Williamsburg, 150 Tanger Dr, Williamsburg, IA 52361, USA
+- **Options:** McDonald's, Subway
+- **Arrive:** 11:45am
+- **Depart:** 12:45pm
+
+### 3. **Whetstine’s Wellman IA**
+
+- **Route:** I-80 to exit 225, U Ave S, left on F52 Trail, right on V Ave that eventually turns into Dogwood Ave.
+- **Address:** 1446 Dogwood Ave, Wellman, IA
+- **Contact:** Clint Whetstine (319)936-0428 Cwhet38@gmail.com and Ed & Sally Whetstine edwhet@netins.net
+- **Arrive:** 1:15pm
+- **Depart:** 3:30pm
+- **Gifts:** 3
+
+### 4. **Pitstop I-80 – The World’s Largest Truck Stop**
+
+- **Route:** East on IA-22 to Wellman, left on 1st Ave/Ginko Ave/Johnson Iowa Rd/Black Hawk Rd back to I-80 E
+- **Address:** 755 W Iowa 80 Rd, Walcott, IA 52773, United States
+- **Arrive:** 4:45pm
+- **Depart:** 5:15pm
+
+### 5. **HOTEL: AmericInn**
+
+- **Route:** I-80 E, to I-280 around Davenport, back to I-80 to exit #56 (IL-26 S)
+- **Address:** 2120 Claude Bailey Pkwy, Princeton, Illinois 61356
+- **Arrive:** 6:30pm
+- **Happy Hour:** None
+- **Bus Parking:** Free
+- **Dinner Options:** The hotel is near a Walmart Supercenter, Prime Quarter Steak House, Culver’s, Big Apple
+
+### **Running Total:** 53hrs 55mins of bus time, 4953km traveled
+
+### Google Maps Route
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d1146305.532919913!2d-92.5545191093572!3d41.60836596904407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x87ee916e91df65e5%3A0x930f7a302abd65e0!2s480%20Bass%20Pro%20Dr%20NW%2C%20Altoona%2C%20IA%2050009%2C%20USA!3m2!1d41.6543734!2d-93.51432319999999!4m5!1s0x87e5bb88adb01d39%3A0x7da5f770baddceca!2s2172%20M%20Ave%2C%20Williamsburg%2C%20IA%2052361%2C%20USA!3m2!1d41.6921203!2d-92.06186249999999!4m5!1s0x87e5bbc2233cc933%3A0x3af1e9acfb89ca32!2s150%20Tanger%20Dr%2C%20Williamsburg%2C%20IA%2052361%2C%20USA!3m2!1d41.691247!2d-92.0041461!4m5!1s0x87e5cdbfcd720ebb%3A0x4a0e3b4d01582f04!2s1446%20Dogwood%20Ave%2C%20Wellman%2C%20IA%2052356%2C%20USA!3m2!1d41.4479536!2d-91.88799379999999!4m5!1s0x87e3b867fe5e6517%3A0x7e4e87fe354778f2!2s755%20W%20Iowa%2080%20Rd%2C%20Walcott%2C%20IA%2052773%2C%20USA!3m2!1d41.618703599999996!2d-90.7824385!5e1!3m2!1sen!2sca!4v1724344194775!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+#### Google maps link: <https://maps.app.goo.gl/99gDLcn56jFajYgo9>

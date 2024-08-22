@@ -1,0 +1,55 @@
+---
+title: "Day 9: Monday, Sept 2nd"
+date: 2024-09-02
+format:
+  html:
+    toc: true
+    toc-title: "Table of Contents"
+    toc-depth: 2
+    code-fold: true
+image: "day09.png"
+categories: [itinerary]
+---
+
+🚌 **Bus time:** 2hrs or 4hrs
+
+> **Note:** Breakfast buffet is included and starts at 7am in Single Barrel Restaurant. Need to turn in your restaurant voucher.
+
+- **Monitors:** Taylor Legg, Mason Lobsinger, Philip Lorenc & Kaelyn Lupyrpa
+- **Start:** Lincoln, NE
+- **End:** Grand Island, NE
+
+## DESTINATIONS
+
+### 1. **LEAADFarms (Cale Carlson)**
+
+- **Route:** I-80 W to exit #332 which is NE-14 N to W 20 Rd
+- **Address:** 1105 W 20 Rd, Marquette, NE 68854, USA
+- **Contact:** Cale Carlson cell phone 402-634-3579
+- **Arrive:** 9:00am
+- **Depart:** 11:30am
+- **Gifts:** 2-3
+
+### 2. **Lunch**
+
+- **Route:** E 20Rd, left on NM Rd, right on E 22 Rd, left on NE-14, right on US-30 to Columbus, right on 8th St, left on 23rd Ave, left on 11th St.
+- **Address:** Glur's Tavern, 2301 11th St, Columbus, NE 68601, United States 1-402-564-8615, Todd is the owner.
+- **Arrive:** 12:30pm
+- **Depart:** 2:30pm
+
+### 3. **HOTEL: Holiday Inn Express & Suites Norfolk**
+
+- **Route:**
+- **Address:** 920 S 20th St, Norfolk, NE 68701, United States
+- **Arrive:** 3:30pm
+- **Happy Hour:** None
+- **Bus Parking:** Free coach parking
+- **Dinner Options:** Culver’s, Big Red Restaurant & Sports Bar, Antojitos de Elena (Mexican), Buffalo Wild Wings
+
+### **Running Total:** 41hrs 1mins of bus time, 3746km traveled
+
+### Google Maps Route
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d1092165.7163401432!2d-98.05489377209918!3d41.41242060495079!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e0!4m5!1s0x8796bf1d2b864627%3A0xf92d622167cb1a8e!2s141%20N%209th%20St%2C%20Lincoln%2C%20NE%2068508%2C%20USA!3m2!1d40.8145764!2d-96.7090813!4m5!1s0x8799f5a3a4d75f6d%3A0x552defde9359ff6e!2s1105%20W%2020%20Rd%2C%20Marquette%2C%20NE%2068854%2C%20USA!3m2!1d40.97409!2d-98.0826046!4m5!1s0x8790ebe0bec48407%3A0x46f4ba8b6af3d945!2s2301%2011th%20St%2C%20Columbus%2C%20NE%2068601%2C%20USA!3m2!1d41.4270607!2d-97.35598739999999!4m5!1s0x87903fd86ef82c49%3A0x98ad165f8deacbc8!2s920%20S%2020th%20St%2C%20Norfolk%2C%20NE%2068701%2C%20USA!3m2!1d42.023347099999995!2d-97.4372482!5e1!3m2!1sen!2sca!4v1724341997773!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+#### Google maps link: <https://maps.app.goo.gl/7gUzdf2Tzvjqxn88A>

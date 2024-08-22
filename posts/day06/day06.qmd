@@ -1,0 +1,72 @@
+---
+title: "Day 6: Friday, Aug 30th"
+date: 2024-08-30
+format:
+  html:
+    toc: true
+    toc-title: "Table of Contents"
+    toc-depth: 2
+    code-fold: true
+image: "day06.png"
+categories: [itinerary]
+---
+
+🚌 **Bus time:** 4hrs
+
+> **Note:** Hotel has a free breakfast buffet starting at 6am. Depart hotel at 7:00am.
+
+- **Monitors:** Tucker Goodman, Lucas Hellyer, Tim Hoogendoorn & Alexis Hoste
+- **Start:** Wichita, KS
+- **End:** Garden City, KS
+
+## DESTINATIONS
+
+### 1. **Next GINeration Cotton Gin**
+
+- **Route:** US-400 W, left on SW 80th Ave, right turn into their facilities
+- **Address:** 80105 US-54, Pratt, KS 67124, USA
+- **Contact:** Casey Goyen cassie.goyen@cotton.coop
+- **Arrive:** 8:30am
+- **Depart:** 10:30am
+- **Gifts:** 2
+
+### 2. **Lunch in Dodge City**
+
+- **Route:** Right onto SW 10th St, right onto N Cullison, left onto US-400 W
+- **Address:** 400 W Wyatt Earp Blvd, Dodge City, KS 67801, United States (convention Centre & visitor Bureau, near the historic part where we usually stop)
+- **Lunch Options:** Applebee’s, Taco Bell, McDonald’s, Arby’s, Burger King
+- **Sights to See:** Boot Hill Museum, Doc Holliday Statue, 1139 Steam Engine, Dodge City Trail of Fame
+- **Arrive:** 11:30am
+- **Depart:** 1:00pm
+
+### 3. **Royal Dairy**
+
+- **Route:** W Wyatt Earp Blvd to US-400 W, right onto County Rd 4/ 4 Rd, left onto F Road
+- **Address:** 3705 F Rd, Garden City, KS 67846, United States
+- **Contact:** Kyle AverHoff averhoff@ucom.net
+- **Arrive:** 2:00pm
+- **Depart:** 4:30pm
+- **Gifts:** 1
+
+### 4. **Crazy House (Western Apparel Store) (Optional)**
+
+- **Address:** 3502 N Campus Rd, Garden City, KS 67846, United States
+- **Arrive:** 5:00pm
+- **Depart:** 5:30pm
+
+### 5. **HOTEL: Clarion Inn**
+
+- **Route:** Left onto E Airbase Rd, right onto US-400, take E Fulton St., right onto N Campus Drive, left onto College Drive
+- **Address:** 1911 E Kansas Ave, Garden City, KS 67846, United States
+- **Arrive:** 5:35pm
+- **Happy Hour:** None
+- **Bus Parking:** Free
+- **Dinner Options:** Golden Corral Buffet & Grill (Ken normally swings a deal for us here) or Tortilleria Los Potrillos
+
+### **Running Total:** 31hrs 35mins of bus time, 2819km traveled
+
+### Google Maps Route
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d2301708.7285734047!2d-100.45124861850981!3d37.7894385161177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0x87bae0c80a7b7f65%3A0xc6621f7696862922!2s1236%20S%20Dugan%20Rd%2C%20Wichita%2C%20KS%2067209%2C%20USA!3m2!1d37.6711378!2d-97.415605!4m5!1s0x87a5cb2fe570cad1%3A0x33f793e6b6b96b2a!2s80105%20US-54%2C%20Pratt%2C%20KS%2067124%2C%20USA!3m2!1d37.6320641!2d-98.8900906!4m5!1s0x87a71b0e3d0c579b%3A0x1737541dad18cf83!2s400%20W%20Wyatt%20Earp%20Blvd%2C%20Dodge%20City%2C%20KS%2067801%2C%20USA!3m2!1d37.7530407!2d-100.0206931!4m5!1s0x87a758a9327f61d9%3A0x7420e08443d34cf7!2s3705%20F%20Rd%2C%20Garden%20City%2C%20KS%2067846%2C%20USA!3m2!1d37.9258831!2d-100.614572!4m5!1s0x8709f1cac6e77bc5%3A0x5ac87f39b4b3b6e4!2s3502%20N%20Campus%20Rd%2C%20Garden%20City%2C%20KS%2067846%2C%20USA!3m2!1d38.002333799999995!2d-100.8461339!4m5!1s0x8709ee2c43723e01%3A0xa2acb5d21f3eb423!2s1911%20E%20Kansas%20Ave%2C%20Garden%20City%2C%20KS%2067846%2C%20USA!3m2!1d37.975986!2d-100.84887189999999!5e1!3m2!1sen!2sca!4v1724341261471!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+#### Google maps link: <https://maps.app.goo.gl/fgt61t15Y1WF3HSw9>
