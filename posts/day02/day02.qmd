@@ -25,58 +25,60 @@ categories: [itinerary]
 -   🥪 **Chicken Bacon Ranch Wraps** (fried or grilled)
 -   🍟 Both options come with fries
 
-## Stops
+## DESTINATIONS
 
-**Start:** Indianapolis, IN\
-**End:** Evansville, IN\
-**Hotel:** Offers a free full breakfast starting at 6am\
-**Depart hotel:** 7:15am
+-   **Start:** Indianapolis, IN\
+-   **End:** Evansville, IN\
+-   **Hotel:** Offers a free full breakfast starting at 6am\
+-   **Depart hotel:** 7:15am
 
 ### 1. 🐄 **The Farm Connection** (1hr 10min)
 
-**Address:** 1363 E County Rd 550 S, Clay City, IN 47841, United States\
-**Route:** From I-70W, take exit #23 for IN-59, turn left onto IN-59S, in 10.6 miles turn left onto E. County Rd 550 S, destination is on the left in about 1.5 miles\
-**Contact:** Alan, Mary, and Kate (Cobb) Yegerlehner, swissconnectioncheese\@gmail.com, 812-691-0254 (Alan's cell)\
-**Arrive:** 8:30am\
-**Depart:** 11:00am\
-**Gifts:** 2-5
+-   **Address:** 1363 E County Rd 550 S, Clay City, IN 47841, United States\
+-   **Route:** From I-70W, take exit #23 for IN-59, turn left onto IN-59S, in 10.6 miles turn left onto E. County Rd 550 S, destination is on the left in about 1.5 miles\
+-   **Contact:** Alan, Mary, and Kate (Cobb) Yegerlehner, swissconnectioncheese\@gmail.com, 812-691-0254 (Alan's cell)\
+-   **Arrive:** 8:30am\
+-   **Depart:** 11:00am\
+-   **Gifts:** 2-5
 
 ### 2. 🍔 **Lunch in Sullivan \@ Walmart/McDonalds** (40mins)
 
-**Address:** 757 W Wolfe St, Sullivan, IN 47882, United States\
-**Route:** IN-59 south to Clay City, just past Clay City right on IN-246 to US-150 (left) to Sullivan\
-**Arrive:** 11:45am\
-**Depart:** 12:45pm
+-   **Address:** 757 W Wolfe St, Sullivan, IN 47882, United States\
+-   **Route:** IN-59 south to Clay City, just past Clay City right on IN-246 to US-150 (left) to Sullivan\
+-   **Arrive:** 11:45am\
+-   **Depart:** 12:45pm
 
 ### 3. 🍉 **Melon Acres** (17min)
 
-**Address:** 5388 E Gauger Rd, Oaktown, IN 47561, United States\
-**Route:** US-150 south, turn right onto E. Gauger Rd\
-**Contact:** Norm Conde (norm\@melonacres.com), Autumn Freeman (autumn\@melonacres.com)\
-**Arrive:** 1:00pm\
-**Depart:** 3:00pm\
-**Gifts:** 2
+-   **Address:** 5388 E Gauger Rd, Oaktown, IN 47561, United States\
+-   **Route:** US-150 south, turn right onto E. Gauger Rd\
+-   **Contact:** Norm Conde (norm\@melonacres.com), Autumn Freeman (autumn\@melonacres.com)\
+-   **Arrive:** 1:00pm\
+-   **Depart:** 3:00pm\
+-   **Gifts:** 2
 
 ### 4. 🍉 **The Big Peach for Watermelon** (9mins) (optional)
 
-**Address:** 7738 N. Old 41, Bruceville, IN, United States\
-**Note:** Bring knife, cutting board, paper towels
+-   **Address:** 7738 N. Old 41, Bruceville, IN, United States\
+-   **Note:** Bring knife, cutting board, paper towels
 
 ### 5. 🛒 **Pitstop in Vincennes IN \@ Walmart** (15mins)
 
-**Address:** 650 Kimmell Rd, Vincennes, IN 47591, United States\
-**Route:** US-150/US-41 S exit on Hart St (left) then left on Kimmell Rd\
-**Arrive:** 4:00pm\
-**Depart:** 4:30pm
+-   **Address:** 650 Kimmell Rd, Vincennes, IN 47591, United States\
+-   **Route:** US-150/US-41 S exit on Hart St (left) then left on Kimmell Rd\
+-   **Arrive:** 4:00pm\
+-   **Depart:** 4:30pm
 
-### 6. 🏨 **HOTEL:** Hampton Inn Evansville (59min) (SWITCH TO CENTRAL TIME)
+### 6. 🏨 **HOTEL:** Hampton Inn Evansville (59min)
 
-**Address:** 8000 Eagle Crest Blvd, Evansville IN\
-**Route:** US-41 turn left onto IN-68 then right onto I-69, take exit 7B for I66 W, then left onto Cross Pointe and left onto Eagle Crest Blvd\
-**Arrive:** 4:30pm (central time)\
-**Happy hour:** None\
-**Bus parking:** Free in lot\
-**Dinner options:** Texas Roadhouse, Cracker Barrel, Bar Louie-Evansville
+> **Note:** SWITCH TO CENTRAL TIME.
+
+-   **Address:** 8000 Eagle Crest Blvd, Evansville IN\
+-   **Route:** US-41 turn left onto IN-68 then right onto I-69, take exit 7B for I66 W, then left onto Cross Pointe and left onto Eagle Crest Blvd\
+-   **Arrive:** 4:30pm (central time)\
+-   **Happy hour:** None\
+-   **Bus parking:** Free in lot\
+-   **Dinner options:** Texas Roadhouse, Cracker Barrel, Bar Louie-Evansville
 
 **Note:** Carmen White will be meeting us at the hotel that evening. She will be flying in from Denver.
 

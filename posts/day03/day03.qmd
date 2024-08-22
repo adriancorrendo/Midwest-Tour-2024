@@ -22,6 +22,8 @@ categories: [itinerary]
 **Hotel offers a free continental breakfast starting at 6am**\
 **Depart hotel:** 5:30am
 
+## DESTINATIONS
+
 ### 1. Breakfast at Love's Travel Stop Calvert City KY (near Land Between the Lakes)
 
 -   **Travel Time:** 1h 48mins

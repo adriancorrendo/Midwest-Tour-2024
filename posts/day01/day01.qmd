@@ -21,7 +21,7 @@ categories: [itinerary]
 -   **End:** Indianapolis, IN
 -   **Depart Guelph:** 6:30am
 
-## Stops
+## DESTINATIONS
 
 ### 1. **Pitstop OnRoute West Lorne**
 
