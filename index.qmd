@@ -1,6 +1,6 @@
 ---
 title: "Midwest Tour 2024"
-author: "Dr. Liz Lee, & Dr. Adrian Correndo"
+author: "Dr. Liz Lee & Dr. Adrian Correndo"
 date: 2024-08-21
 listing:
   contents: posts
