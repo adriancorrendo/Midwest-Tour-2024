@@ -30,7 +30,7 @@ categories: [itinerary]
 -   **Start:** Indianapolis, IN\
 -   **End:** Evansville, IN\
 -   **Hotel:** Offers a free full breakfast starting at 6am\
--   **Depart hotel:** 7:15am
+-   **Depart hotel:** 7:15 am
 
 ### 1. 🐄 **The Farm Connection** (1hr 10min)
 
